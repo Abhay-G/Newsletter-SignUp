@@ -1,0 +1,12 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+.mystyle .container h1{
+  color: #ffa62b;
+}
+.mystyle .container p{
+  opacity:0.5;
+  font-weight:bold;
+}
