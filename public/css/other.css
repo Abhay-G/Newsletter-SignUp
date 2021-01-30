@@ -3,10 +3,8 @@ body{
 
 
 }
-.mystyle .container h1{
-  color: #ffa62b;
-}
+
 .mystyle .container p{
-  opacity:0.5;
+  opacity:0.7;
   font-weight:bold;
 }
